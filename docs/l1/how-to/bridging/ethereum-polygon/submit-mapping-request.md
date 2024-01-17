@@ -25,12 +25,3 @@ Click on Raise Mapping Request (a Google Form pops up).
 **Step 5 &rarr;** Now, click on the **Submit** button to initiate the mapping process. Our team will review the mapping request and get back to you in 7 days.
 
 For a successful Mainnet mapping, you may provide your token details [here](https://github.com/maticnetwork/polygon-token-list/issues/new/choose) to be added on the [**Polygon Token List**](https://api-polygon-tokens.polygon.technology/tokenlists/polygonTokens.tokenlist.json).
-
-## Video Guide
-
-Here is a quick video tutorial on how to map tokens between **Ethereum Goerli &harr; Polygon Mumbai Testnet**:
-
-<video autoplay width="100%" height="100%" controls="true" >
-  <source type="video/mp4" src="/img/token-mapping/token-mapper.mp4"></source>
-  <p>Your browser does not support the video element.</p>
-</video>
