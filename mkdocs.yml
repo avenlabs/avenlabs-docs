@@ -1,6 +1,6 @@
 site_name: Avenlabs.
 site_author: Polygon Labs
-copyright: Copyright &copy; 2024 Polygon Labs
+copyright: Copyright &copy; 2024 Avenbreaks Labs
 repo_name: Avenlabs.
 repo_url: https://github.com/avenlabs/avenlabs-docs
 edit_uri: edit/main/docs/
@@ -295,9 +295,6 @@ nav:
           - Topup Heimdall fee: l1/operate-node/validator/topup-heimdall-fee.md
           - Change your signer address: l1/operate-node/validator/change-signer-address.md
           - Move stake: l1/operate-node/validator/move-stake.md
-        - Delegate:
-          - How to delegate: l1/operate-node/delegate/delegate.md
-          - Delegator FAQs: l1/operate-node/delegate/delegator-faq.md
           # - Validator performance: l1/operate-node/validator/validator-performance-overview.md
         - Troubleshooting:
           - Validator performance: l1/operate-node/validator/validator-performance.md
